@@ -1,4 +1,4 @@
 yabu
 ====
 
-translate yabunonaka into Lojban
+translate Yabunonaka into Lojban
