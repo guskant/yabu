@@ -42,7 +42,12 @@
 
         <h1>yabu</h1>
 
-<p><!--#include file="yabunonaka_jbo.txt"--></p>
+<p>
+<?php 
+$string = fopen("yabunonaka_jbo.txt","r"); 
+echo $string; 
+?>
+</p>
       </section>
 
     </div>
