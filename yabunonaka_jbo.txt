@@ -94,7 +94,7 @@ sei ku'i me pa po'o dakfu
 lo cutne midju cu se tunta je se xrani 
 gi bu'a
 .iseri'abo
-loi morsi xadni jibni ke spatrtake ke farlu pezli cu nukni cinta jinru pe'a
+loi morsi xadni jibni ke spatrtake ke farlu pezli cu nuknrsuxou cinta jinru pe'a
 
 何しろ一刀
 ひとかたな
@@ -165,9 +165,12 @@ di'e fi lo poi lo pulji cu preti fo ke'a ku'o litru jdaca'i cu lisri
 .i tu'e
 fe lo va morsi xadni nanmu jo'a ca lo prulamdei cu penmi
 .i
-prulamdei sei sa'a zi smaji se'u co'e ja donri midju la'a
+prulamdei 
+sei sa'a zi smaji se'u 
+co'e ja donri midju la'a
 .i
-lo stuzi cu
+lo stuzi cu la'a zvati da po'e la .seki,iaman. bi'o la .iamacnan.
+
 　あの死骸の男には、確かに昨日
 きのう
 遇
@@ -178,29 +181,73 @@ lo stuzi cu
 せきやま
 から山科
 やましな
-へ、参ろうと云う途中でございます。あの男は馬に乗った女と一しょに、関山の方へ歩いて参りました。女は牟子
+へ、参ろうと云う途中でございます。
+
+.i
+lo va nanmu ku jo'u lo poi se marce lo xirma ku'o ninmu fa'a la .seki,iaman. pu ki zo'i cadzu klama
+.i
+lo ninmu lo bukprmuci cu se gacri
+.i se ri'a bo
+lo flira zo'u mi na ganse
+.i
+lo se viska cu po'o zirprxagi za'a bukpu skari
+
+あの男は馬に乗った女と一しょに、関山の方へ歩いて参りました。女は牟子
 むし
 を垂れて居りましたから、顔はわたしにはわかりません。見えたのはただ萩重
 はぎがさ
 ねらしい、衣
 きぬ
-の色ばかりでございます。馬は月毛
+の色ばかりでございます。
+
+.i
+lo xirma cu skari kandi 
+sei sa'a zi smaji se'u 
+gi'e la'a kerfa se katna za'a xirma
+.i
+pau pei rajycla la'u ma kau
+
+馬は月毛
 つきげ
 の、——確か法師髪
 ほうしがみ
 の馬のようでございました。丈
 たけ
-でございますか？　丈は四寸
+でございますか？　
+
+.i lo rajycla li munosu'ivo gutcrki xu
+
+to'i sa'a pa gutcirki cu mitre li ji'ipinocinoci toi
+
+丈は四寸
 よき
-もございましたか？　——何しろ沙門
+もございましたか？　
+
+.i sei sa'a zi smaji 
+ro bu'a zo'u gu 
+mi budjo cilre 
+gi bu'a
+.iseki'ubo
+na'e satci djuno ra
+——何しろ沙門
 しゃもん
-の事でございますから、その辺ははっきり存じません。男は、——いえ、太刀
+の事でございますから、その辺ははっきり存じません。
+
+.i
+lo nanmu
+sei sa'a zi smaji se'u 
+.i na'i dasni lo barda dakfu .e lo bagyce'a jo'u celga'a
+
+男は、——いえ、太刀
 たち
 も帯びて居
 お
 れば、弓矢も携
 たずさ
-えて居りました。殊に黒い塗
+えて居りました。
+
+.i
+殊に黒い塗
 ぬ
 り箙
 えびら
