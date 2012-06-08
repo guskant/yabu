@@ -580,12 +580,12 @@ h3 {
 }
 
 a {
-  color: #ffcc00;
+  color: #C19100;
   font-weight: 400;
   text-decoration: none;
 }
 a:hover {
-  color: #ffeb9b;
+  color: #C36100;
 }
 
 a small {
@@ -818,6 +818,12 @@ section #title .credits.left {
 }
 section #title .credits.right {
   float: right;
+}
+section .footer {
+    font-size: 12px;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  margin-top: -10px;
 }
 
 @media print, screen and (max-width: 720px) {

@@ -205,7 +205,7 @@ lo xirma cu skari kandi
 sei sa'a zi smaji se'u 
 gi'e la'a kerfa se katna za'a xirma
 .i
-pau pei rajycla la'u ma kau
+pau pei la'u ma kau rajycla
 
 馬は月毛
 つきげ
@@ -215,9 +215,9 @@ pau pei rajycla la'u ma kau
 たけ
 でございますか？　
 
-.i lo rajycla li munosu'ivo gutcrki xu
+.i lo ni rajycla ku li munosu'ivo gutcrki xu
 
-to'i sa'a pa gutcirki cu mitre li ji'ipinocinoci toi
+to'i sa'a pa gutcrki cu mitre li ji'ipinocinoci toi
 
 丈は四寸
 よき
@@ -228,13 +228,13 @@ ro bu'a zo'u gu
 mi budjo cilre 
 gi bu'a
 .iseki'ubo
-na'e satci djuno ra
+na'e satci djuno tu'a ra
 ——何しろ沙門
 しゃもん
 の事でございますから、その辺ははっきり存じません。
 
 .i
-lo nanmu
+lo nanmu zo'u
 sei sa'a zi smaji se'u 
 .i na'i dasni lo barda dakfu .e lo bagyce'a jo'u celga'a
 
@@ -246,7 +246,8 @@ sei sa'a zi smaji se'u
 たずさ
 えて居りました。
 
-.i
+.i ra'u lo du'u lo xekri cinta tubnu gau vasru za'ureno jamna celga'a kei nau ca ji'a sai satci se morji
+
 殊に黒い塗
 ぬ
 り箙
@@ -254,6 +255,14 @@ sei sa'a zi smaji se'u
 へ、二十あまり征矢
 そや
 をさしたのは、ただ今でもはっきり覚えて居ります。
+
+.i 
+lo nu lo va nanmu ti binxo ba'e na xanri do'anai pu
+.i ku'i jo'a
+lo'e prenu nu jmive ku simsa ju'o lo djacu dirgo .e lo lindi
+.i .uu sai
+sei no da ka'e se cusku se'u kecti fi ti
+
 　あの男がかようになろうとは、夢にも思わずに居りましたが、真
 まこと
 に人間の命なぞは、如露亦如電
