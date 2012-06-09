@@ -192,6 +192,8 @@ tu'a lo flira mi na se ganse
 .i
 lo se viska cu po'o zirprxagi za'a bukpu skari
 
+<var class="tt">zirprxagi<span class="tooltip"><span class="top"></span><span class="middle"><a href="./images/hagigasane.jpg"><img src="./images/hagigasane.jpg" width="100%" /></a><br />to'i sa'a sitna la'o py 太田 耕嗣 『源氏物語 千年の色: 襲色目』, 太田工芸, 京都, 2005 py toi</span><span class="bottom">zirprxagi</span></span></var><a name="zirprxagi1" href="#zirprxagi"><sup>*x</sup></a>
+<var class="tt">bukprmuci<span class="tooltip"><span class="top"></span><span class="middle"><a href="./images/musi.jpg"><img src="./images/musi.jpg" width="100%" /></a><br />to'i sa'a sitna la'o py 池上 良太 『図解 日本の装束』, 新紀元社, 東京, 2008 py toi</span><span class="bottom">bukprmuci</span></span></var><a name="bukprmuci1" href="#bukprmuci"><sup>*6</sup></a>
 あの男は馬に乗った女と一しょに、関山の方へ歩いて参りました。女は牟子
 むし
 を垂れて居りましたから、顔はわたしにはわかりません。見えたのはただ萩重
@@ -308,7 +310,10 @@ to'i sa'a lo se fraxu cu zekri prenu gi'e se fraxu tezu'e lo nu gau lo pulji vo'
 たち
 を佩
 は
-いて居りました。ただ今はそのほかにも御覧の通り、弓矢の類さえ携
+いて居りました。
+<var class="tt">blanrkonu<span class="tooltip"><span class="top"></span><span class="middle"><a href="./images/kon.jpg"><img src="./images/kon.jpg" width="100%" /></a><br />to'i sa'a sitna la'o py 太田 耕嗣 『源氏物語 千年の色: 単色』, 太田工芸, 京都, 2005 py <br />.i<br />lo blanrkonu cu du lo xekri blanrxanada toi</span><span class="bottom">blanrkonu</span></span></var><a name="blanrkonu1" href="#blanrkonu"><sup>*4</sup></a>
+
+ただ今はそのほかにも御覧の通り、弓矢の類さえ携
 たずさ
 えて居ります。さようでございますか？　あの死骸の男が持っていたのも、——では人殺しを働いたのは、この多襄丸に違いございません。革
 かわ
@@ -424,7 +429,10 @@ la .tajomar. cusku lo vo'a zekri no'u la'e di'e
 むし
 の垂絹
 たれぎぬ
-が上ったものですから、ちらりと女の顔が見えたのです。ちらりと、——見えたと思う瞬間には、もう見えなくなったのですが、一つにはそのためもあったのでしょう、わたしにはあの女の顔が、女菩薩
+が上ったものですから、ちらりと女の顔が見えたのです。
+<var class="tt">bukprmuci<span class="tooltip"><span class="top"></span><span class="middle"><a href="./images/musi.jpg"><img src="./images/musi.jpg" width="100%" /></a><br />to'i sa'a sitna la'o py 池上 良太 『図解 日本の装束』, 新紀元社, 東京, 2008 py toi</span><span class="bottom">bukprmuci je mapkrtcime</span></span></var><a name="bukprmuci1" href="#bukprmuci"><sup>*6</sup></a>
+
+ちらりと、——見えたと思う瞬間には、もう見えなくなったのですが、一つにはそのためもあったのでしょう、わたしにはあの女の顔が、女菩薩
 にょぼさつ
 のように見えたのです。わたしはその咄嗟
 とっさ
@@ -498,7 +506,11 @@ la .tajomar. cusku lo vo'a zekri no'u la'e di'e
 ずぼし
 に当ったのは、申し上げるまでもありますまい。女は市女笠
 いちめがさ
-を脱いだまま、わたしに手をとられながら、藪の奥へはいって来ました。ところがそこへ来て見ると、男は杉の根に縛
+を脱いだまま、わたしに手をとられながら、藪の奥へはいって来ました。
+<var class="tt">mapkrtcime<span class="tooltip"><span class="top"></span><span class="middle"><a href="./images/musi.jpg"><img src="./images/musi.jpg" width="100%" /></a><br />to'i sa'a sitna la'o py 池上 良太 『図解 日本の装束』, 新紀元社, 東京, 2008 py toi</span><span class="bottom">bukprmuci je mapkrtcime</span></span></var><a name="mapkrtcime1" href="#mapkrtcime"><sup>*6</sup></a>
+
+
+ところがそこへ来て見ると、男は杉の根に縛
 しば
 られている、——女はそれを一目見るなり、いつのまに懐
 ふところ
@@ -791,28 +803,3 @@ tu'u
 
 fa'o
 
-（大正十年十二月）
-
-
-
-
-底本：「芥川龍之介全集4」ちくま文庫、筑摩書房
-　　　1987（昭和62）年1月27日第1刷発行
-　　　1996（平成8）年7月15日第8刷発行
-底本の親本：「筑摩全集類聚版芥川龍之介全集」筑摩書房
-　　　1971（昭和46）年3月〜1971（昭和46）年11月
-初出：「新潮」
-　　　1922（大正11）年1月
-入力：平山誠、野口英司
-校正：もりみつじゅんじ
-1997年11月10日公開
-2011年5月22日修正
-青空文庫作成ファイル：
-このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
-
-
-
-●表記について
-このファイルは W3C 勧告 XHTML1.1 にそった形式で作成されています。
-
-●図書カード

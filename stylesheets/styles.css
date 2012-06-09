@@ -580,12 +580,12 @@ h3 {
 }
 
 a {
-  color: #C19100;
+  color: #ffcc00;
   font-weight: 400;
   text-decoration: none;
 }
 a:hover {
-  color: #C36100;
+  color: #ffeb9b;
 }
 
 a small {
@@ -855,3 +855,13 @@ section .footer {
     display: none;
   }
 }
+
+div.nav-prev { float:left; }
+div.nav-title { margin-left:auto;  margin-right:auto; width:33%; text-align:center; color: #696969; }
+div.nav-next { float:right; }
+
+div.nav-title-title { font-weight:bold; }
+div.nav-title-link { font-style:italic; font-size:small; }
+div.nav-section-name { font-style:italic; }
+div.nav-section-link-next{ text-align:right; }
+

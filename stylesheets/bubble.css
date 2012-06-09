@@ -34,6 +34,14 @@ a.tt:hover span.middle{ /* different middle bg for stretch */
 	padding: 0 8px; 
 	background: url(../images/bubble_filler.gif) repeat bottom; 
 }
+span.middle a{ /* different middle bg for stretch */
+	font-weight:bold;
+ 	color: #0024B5;
+}
+span.middle a:hover{ /* different middle bg for stretch */
+	font-weight:bold;
+ 	color: #7C00D5;
+}
 a.tt:hover span.bottom{
 	display: block;
 	padding:3px 8px 10px;
