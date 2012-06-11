@@ -89,10 +89,9 @@ cu vreta
 けに倒れて居りました。
 
 .i
-ro bu'a zo'u gu 
-sei ku'i me pa po'o dakfu
-lo cutne midju cu se tunta je se xrani 
-gi bu'a
+ro bu'a zo'u segu bu'a
+sei ku'i pa po'o mei dakfu
+gi lo cutne midju cu se tunta je se xrani
 .iseri'abo
 loi morsi xadni jibni ke spatrtake ke farlu pezli cu nuknrsuxou cinta jinru pe'a
 
@@ -148,8 +147,9 @@ lo va nanmu pu lo nu se catra cu mutce carmi tolcando
 ki'a pau pei xu kau lo xirma na zvati
 .i
 ta je'u lo'e xirma na ka'e se nenri
-.i ri'a sai bo
-fe ta fi lo xirma klama dargu fa lo spati denmi pa mei cu bitmu
+.i ri'a bo
+ro bu'a zo'u segu bu'a
+gi fe ta fi lo xirma klama dargu fa lo spati denmi pa mei cu bitmu
 
 が、草や竹の落葉は、一面に踏み荒されて居りましたから、きっとあの男は殺される前に、よほど手痛い働きでも致したのに違いございません。何、馬はいなかったか？　あそこは一体馬なぞには、はいれない所でございます。何しろ馬の通
 かよ
@@ -226,9 +226,8 @@ to'i sa'a pa gutcrki cu mitre li ji'ipinocinoci toi
 もございましたか？　
 
 .i sei sa'a zi smaji 
-ro bu'a zo'u gu 
-mi budjo cilre 
-gi bu'a
+ro bu'a zo'u segu bu'a
+gi mi budjo cilre
 .iseki'ubo
 na'e satci djuno tu'a ra
 ——何しろ沙門
