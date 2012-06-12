@@ -820,10 +820,11 @@ section #title .credits.right {
   float: right;
 }
 section .footer {
-    font-size: 12px;
+    font-size: 14px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   margin-top: -10px;
+  margin-bottom: 200px;
 }
 
 @media print, screen and (max-width: 720px) {
