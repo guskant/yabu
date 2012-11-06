@@ -5,6 +5,7 @@ di'e sepi'o lo pruxi ve cusku ninmu moklu fi lo morsi pruxi cu lisri
 みこ
 の口を借りたる死霊の物語
 to'i sa'a lu lo pruxi ve cusku ninmu li'u se smuni lo ninmu je ve cusku be fo lo pruxi toi
+to'i sa'a lo morsi pruxi cu du la .takexir. toi
 
 .i tu'e
 sei sa'a ze'i smaji se'u
@@ -33,8 +34,8 @@ mi ca la'e de'u so'i roi kanla cusku fi ko'e
 ko na krici tu'a lo se cusku be ko'a 
 .i
 ro da poi ko'a cusku ke'a zo'u ko jinvi lo du'u da jitfa
-sei sa'a ze'i smaji se'u
 li'u
+sei sa'a ze'i smaji se'u
 この男の云う事を真
 ま
 に受けるな、何を云っても嘘と思え、——
@@ -59,39 +60,138 @@ mi se ja'e gi jilra gi se xadni co tolcando
 みもだ
 えをした。
 .i ku'i
-ko'a da ce'o de certu ciksi
+ko'a da ce'o de ca'o certu ciksi
 が、盗人はそれからそれへと、巧妙に話を進めている。
 .i lu
-
-一度でも肌身を汚したとなれば、夫との仲も折り合うまい。そんな夫に連れ添っているより、自分の妻になる気はないか？　自分はいとしいと思えばこそ、大それた真似も働いたのだ、——盗人はとうとう大胆
+ pa mei po'o ku'i nu lo skapi co xadni pu co'i to'e jinsa
+ .i ja'e bo do le spenau ba na'e panpi
+ .i .e'unai do le la'e di'u spenau ba ranji speni 
+ .i ku'i .e'u do mi co'a speni .aipei
+ .i jo'a mi do prami 
+ .i se mu'i sai bo ba'o zukte lo se darsi
+li'u
+sei sa'a ze'i smaji se'u
+.i 
+ko'a ro mai sei darsi di'u do'anai co'a cusku 
+一度でも肌身を汚
+けが
+したとなれば、夫との仲も折り合うまい。そんな夫に連れ添っているより、自分の妻になる気はないか？　自分はいとしいと思えばこそ、大それた真似も働いたのだ、——盗人はとうとう大胆
 だいたん
 にも、そう云う話さえ持ち出した。
+.i 
+sei te cusku be de'u bei ko'a 
+ko'e sei za'a vindu se pluka 
+mo'i ga'u jai gau muvdu fai lo flira
 　盗人にこう云われると、妻はうっとりと顔を擡
 もた
-げた。おれはまだあの時ほど、美しい妻を見た事がない。しかしその美しい妻は、現在縛られたおれを前に、何と盗人に返事をしたか？　おれは中有
+げた。
+.i 
+mi ca ze'e pu na viska ko'e poi zmadu ko'e pe ca la'e di'u lo ka melbi
+おれはまだあの時ほど、美しい妻を見た事がない。
+.i ku'i 
+ko'e poi melbi 
+zi'e noi ca'u ke'a me mi poi ca'a skori rinju ku'o 
+pu spuda ko'a ma
+しかしその美しい妻は、現在縛られたおれを前に、何と盗人に返事をしたか？　
+.i
+mi noi ku'i mo'i zei zvati bu'u lo bi'i zei munje ku'o
+ro roi ku go morji lo te spuda be fi ko'e gi carmi lo ka ce'u xebni cinmo
+
+to'i sa'a lo bi'i zei munje cu munje fi lo budjo .ije bu'u ra lo morsi poi pu'o za'u re'u jbena cu zvati toi
+おれは中有
 ちゅうう
 に迷っていても、妻の返事を思い出すごとに、嗔恚
 しんい
-に燃えなかったためしはない。妻は確かにこう云った、——「ではどこへでもつれて行って下さい。」（長き沈黙）
-　妻の罪はそれだけではない。それだけならばこの闇
+に燃えなかったためしはない。
+.i ju'o 
+ko'e cusku 
+sei sa'a ze'i smaji se'u
+lu ja'o ko mi mo'i fa'a da .a'ucu'i se kansa li'u
+sei sa'a ze'u smaji se'u
+妻は確かにこう云った、——「ではどこへでもつれて行って下さい。」（長き沈黙）
+.i
+lo zekri po ko'e za'u mei
+　妻の罪はそれだけではない。
+.i
+lo nu go'e po'o da'i na rau mei krinu lo nu ne'i lo vi manku mi ca'a dunku traji
+それだけならばこの闇
 やみ
-の中に、いまほどおれも苦しみはしまい。しかし妻は夢のように、盗人に手をとられながら、藪の外へ行こうとすると、たちまち顔色
+の中に、いまほどおれも苦しみはしまい。
+.i ku'i
+ko'e noi za'a senva pe'a ku'o 
+ca lo mu'e se jgari ko'a fo lo xance gi'e co'a klama mo'i to'o lo spati denmi kei
+co'a suksa pilda gi'e degja'o tu'a mi pe bu'u lo ckunrsugi genja
+
+to'i sa'a zo pilda <a href="http://www.lojban.org/tiki/Resurrected+gismu">nalmorsi gismu</a> gi'e se smuni lo nu lo flira cu ciblu claxu skari toi
+しかし妻は夢のように、盗人に手をとられながら、藪の外へ行こうとすると、たちまち顔色
 がんしよく
-を失ったなり、杉の根のおれを指さした。「あの人を殺して下さい。わたしはあの人が生きていては、あなたと一しょにはいられません。」——妻は気が狂ったように、何度もこう叫び立てた。「あの人を殺して下さい。」——この言葉は嵐のように、今でも遠い闇の底へ、まっ逆様
+を失ったなり、杉の根のおれを指さした。
+.i lu
+ ko catra le va prenu
+ .i ganai ri jmive gi mi do na'e ka'e kansa
+li'u
+sei sa'a ze'i smaji se'u
+.i
+ko'e noi za'a jai fenki pe'a ku'o so'i roi krixa cusku di'u
+「あの人を殺して下さい。わたしはあの人が生きていては、あなたと一しょにはいられません。」——妻は気が狂ったように、何度もこう叫び立てた。
+.i lu 
+ko catra le va prenu
+li'u 
+sei sa'a ze'i smaji se'u
+.i
+le di'u valsi noi vlile tcima pe'a ku'o
+ca ji'a ku fa'a lo vu manku loldi 
+co'a sraji je fatne ke brife nitygau mi
+「あの人を殺して下さい。」——この言葉は嵐のように、今でも遠い闇の底へ、まっ逆様
 さかさま
-におれを吹き落そうとする。一度でもこのくらい憎むべき言葉が、人間の口を出た事があろうか？　一度でもこのくらい呪
+におれを吹き落そうとする。
+.i xu paunai
+su'o roi ku do'anai lo valsi co se xebni be sedu'i de'u ca ze'e pu se bacru pa'o lo moklu be lo'e prenu
+一度でもこのくらい憎むべき言葉が、人間の口を出た事があろうか？　
+.i xu paunai
+su'o roi ku do'anai lo valsi co se dapma be sedu'i de'u ca ze'e pu se tirna pa'o lo kerlo be lo'e prenu
+一度でもこのくらい呪
 のろ
-わしい言葉が、人間の耳に触れた事があろうか？　一度でもこのくらい、——（突然迸
+わしい言葉が、人間の耳に触れた事があろうか？　
+.i xu paunai
+su'o roi ku do'anai 
+sei sa'a ze'i smaji se'u
+sei sa'a suksa ke carvi carmi ke'e pe'a ckasu bo cmila
+一度でもこのくらい、——（突然迸
 ほとばし
 るごとき嘲笑
 ちょうしょう
-）その言葉を聞いた時は、盗人さえ色を失ってしまった。「あの人を殺して下さい。」——妻はそう叫びながら、盗人の腕に縋
+）
+.i
+ca lo mu'e tirna le de'u valsi kei
+ko'a ji'a sai co'a pilda
+その言葉を聞いた時は、盗人さえ色を失ってしまった。
+.i lu 
+ko catra le va prenu
+li'u 
+sei sa'a ze'i smaji se'u
+.i 
+ko'e ca'o krixa cusku di'u gi'e tsali jgari ko'a fo lo birka
+「あの人を殺して下さい。」——妻はそう叫びながら、盗人の腕に縋
 すが
-っている。盗人はじっと妻を見たまま、殺すとも殺さぬとも返事をしない。——と思うか思わない内に、妻は竹の落葉の上へ、ただ一蹴りに蹴倒
+っている。
+.i
+ko'a ko'e ca'o ru'i catlu gi'e spuda zo go'i na.enai lu na go'i li'u .e no da
+盗人はじっと妻を見たまま、殺すとも殺さぬとも返事をしない。
+.i
+sei sa'a ze'i smaji se'u
+ca'o ja pu'o lo mu'e zgana la'e di'u kei 
+ko'e mo'i fa'a lo cpana be lo spatrtake farlu bo pezli 
+cu pa po'o mei bo se tikpa je se falgau
+sei sa'a za'u re'u ke carvi carmi ke'e pe'a ckasu bo cmila
+——と思うか思わない内に、妻は竹の落葉の上へ、ただ一蹴りに蹴倒
 けたお
 された、（再
 ふたた
-び迸るごとき嘲笑）盗人は静かに両腕を組むと、おれの姿へ眼をやった。「あの女はどうするつもりだ？　殺すか、それとも助けてやるか？　返事はただ頷
+び迸るごとき嘲笑）
+.i
+
+盗人は静かに両腕を組むと、おれの姿へ眼をやった。「あの女はどうするつもりだ？　殺すか、それとも助けてやるか？　返事はただ頷
 うなず
 けば好
 よ
