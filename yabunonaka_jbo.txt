@@ -1,16 +1,16 @@
 
 ni'o
-di'e sepi'o lo pruxi ve cusku ninmu moklu fi lo morsi pruxi cu lisri
+di'e sepi'o lo pruxi bo ve cusku je ninmu moklu fi le morsi pruxi cu lisri
 巫女
 みこ
 の口を借りたる死霊の物語
-to'i sa'a lu lo pruxi ve cusku ninmu li'u se smuni lo ninmu je ve cusku be fo lo pruxi toi
-to'i sa'a lo morsi pruxi cu du la .takexir. toi
+to'i sa'a lu lo pruxi bo ve cusku je ninmu li'u se smuni lo ninmu je ve cusku be fo lo pruxi toi
+to'i sa'a le morsi pruxi cu du la .takexir. toi
 
 .i tu'e
 sei sa'a ze'i smaji se'u
 le zekri lebna goi ko'a noi ba'o bai gletu le mi speni'u goi ko'e ku'o 
-ca'o za'o zutse ti 
+za'o zutse ti 
 gi'e co'a vrici cnidju ko'e 
 　——盗人
 ぬすびと
@@ -40,17 +40,17 @@ sei sa'a ze'i smaji se'u
 ま
 に受けるな、何を云っても嘘と思え、——
 .i
-.au mi tavla fi la'e di'u
+mi pu djica lo nu tavla fi la'e di'u
 おれはそんな意味を伝えたいと思った。
 .i ku'i
-ko'e sei za'a badri se'u
-ca'o za'o zutse lo spatrsasa ke farlu pezli 
+ko'e noi za'a badri ku'o
+za'o zutse lo spatrsasa ke farlu pezli 
 gi'e ru'i catlu fa'a lo tuple cidni
 しかし妻は悄然
 しょうぜん
 と笹の落葉に坐ったなり、じっと膝へ目をやっている。
 .i za'a ju'a
-lo nu go'i cu ve jinvi lo du'u ko'e lo ko'a valsi ku tinju'i
+la'e di'u ve jinvi lo du'u ko'e lo ko'a valsi ku tinju'i
 それがどうも盗人の言葉に、聞き入っているように見えるではないか？　
 .i
 mi se ja'e gi jilra gi se xadni co tolcando 
@@ -60,19 +60,19 @@ mi se ja'e gi jilra gi se xadni co tolcando
 みもだ
 えをした。
 .i ku'i
-ko'a da ce'o de ca'o certu ciksi
+ko'a da ce'o de ca'o to'e juxre ciksi
 が、盗人はそれからそれへと、巧妙に話を進めている。
 .i lu
  pa mei po'o ku'i nu lo skapi co xadni pu co'i to'e jinsa
- .i ja'e bo do le spenau ba na'e panpi
- .i .e'unai do le la'e di'u spenau ba ranji speni 
+ .i ja'e bo .ei do le spenau co'a na'e panpi
+ .i .e'unai do le di'u spenau ba ranji speni 
  .i ku'i .e'u do mi co'a speni .aipei
  .i jo'a mi do prami 
- .i se mu'i sai bo ba'o zukte lo se darsi
+ .i se mu'i sai bo co'i zukte lo se darsi
 li'u
 sei sa'a ze'i smaji se'u
 .i 
-ko'a ro mai sei darsi di'u do'anai co'a cusku 
+ko'a noi ro mai darsi ku'o di'u do'anai co'a cusku 
 一度でも肌身を汚
 けが
 したとなれば、夫との仲も折り合うまい。そんな夫に連れ添っているより、自分の妻になる気はないか？　自分はいとしいと思えばこそ、大それた真似も働いたのだ、——盗人はとうとう大胆
@@ -80,13 +80,13 @@ ko'a ro mai sei darsi di'u do'anai co'a cusku
 にも、そう云う話さえ持ち出した。
 .i 
 sei te cusku be de'u bei ko'a 
-ko'e sei za'a vindu se pluka 
+ko'e noi za'a vindu se pluka 
 mo'i ga'u jai gau muvdu fai lo flira
 　盗人にこう云われると、妻はうっとりと顔を擡
 もた
 げた。
 .i 
-mi ca ze'e pu na viska ko'e poi zmadu ko'e pe ca la'e di'u lo ka melbi
+mi canai la'e di'u ca ze'e pu no roi viska ko'e poi se du'i melbi
 おれはまだあの時ほど、美しい妻を見た事がない。
 .i ku'i 
 ko'e poi melbi 
@@ -119,7 +119,7 @@ lo nu go'e po'o da'i na rau mei krinu lo nu ne'i lo vi manku mi ca'a dunku traji
 の中に、いまほどおれも苦しみはしまい。
 .i ku'i
 ko'e noi za'a senva pe'a ku'o 
-ca lo mu'e se jgari ko'a fo lo xance gi'e co'a klama mo'i to'o lo spati denmi kei
+ca lo mu'e se jgari ko'a fo lo xance gi'e co'a klama mo'i ze'o lo spati denmi kei
 co'a suksa pilda gi'e degja'o tu'a mi pe bu'u lo ckunrsugi genja
 
 to'i sa'a zo pilda <a href="http://www.lojban.org/tiki/Resurrected+gismu">nalmorsi gismu</a> gi'e se smuni lo nu lo flira cu ciblu claxu skari toi
@@ -140,8 +140,8 @@ li'u
 sei sa'a ze'i smaji se'u
 .i
 le di'u valsi noi vlile tcima pe'a ku'o
-ca ji'a ku fa'a lo vu manku loldi 
-co'a sraji je fatne ke brife nitybai mi
+ca ji'a ku mo'i fa'a lo vu manku loldi 
+co'a jai bai ke sraji je fatne ke brife farlu fai mi
 「あの人を殺して下さい。」——この言葉は嵐のように、今でも遠い闇の底へ、まっ逆様
 さかさま
 におれを吹き落そうとする。
