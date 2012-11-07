@@ -141,7 +141,7 @@ sei sa'a ze'i smaji se'u
 .i
 le di'u valsi noi vlile tcima pe'a ku'o
 ca ji'a ku fa'a lo vu manku loldi 
-co'a sraji je fatne ke brife nitygau mi
+co'a sraji je fatne ke brife nitybai mi
 「あの人を殺して下さい。」——この言葉は嵐のように、今でも遠い闇の底へ、まっ逆様
 さかさま
 におれを吹き落そうとする。
@@ -180,7 +180,7 @@ ko'a ko'e ca'o ru'i catlu gi'e spuda zo go'i na.enai lu na go'i li'u .e no da
 盗人はじっと妻を見たまま、殺すとも殺さぬとも返事をしない。
 .i
 sei sa'a ze'i smaji se'u
-ca'o ja pu'o lo mu'e zgana la'e di'u kei 
+ca'o ja pu'o lo mu'e sanji la'e di'u kei 
 ko'e mo'i fa'a lo cpana be lo spatrtake farlu bo pezli 
 cu pa po'o mei bo se tikpa je se falgau
 sei sa'a re re'u ke carvi carmi ke'e pe'a ckasu bo cmila
@@ -190,7 +190,8 @@ sei sa'a re re'u ke carvi carmi ke'e pe'a ckasu bo cmila
 ふたた
 び迸るごとき嘲笑）
 .i
-ko'a smaji kruca bo simxu gasnu lo se re mei be lo birka gi'e se kanla fa'a lo tarmi be mi
+ko'a noi smaji ku'o
+kucysimgau be lo'i re birka be'o ce'o se kanla be fa'a lo mi tarmi
 盗人は静かに両腕を組むと、おれの姿へ眼をやった。
 .i lu 
  gau do mo le va ninmu
@@ -209,7 +210,7 @@ sei sa'a re re'u ze'u smaji se'u
 ゆる
 してやりたい。（再び、長き沈黙）
 .i 
-ko'e ca'o lo nu mi na'e ka'e jdice ke'i
+ko'e ca'o lo nu mi na'e ka'e jdice kei
 co'i ja pu'o krixa da poi pa mei 
 gi'e zi co'a bajra fa'a lo spati denmi condi 
 　妻はおれがためらう内に、何か一声
@@ -218,7 +219,7 @@ gi'e zi co'a bajra fa'a lo spati denmi condi
 .i 
 ko'a ji'a zi fa'a plipe
 .i ku'i za'a 
-la'e di'u na'e jalge lo nu ji'a sai jgari lo taxfu tubnu
+lo nu go'i cu na'e rinka lo nu po'o ji'a sai jgari lo taxfu tubnu
 盗人も咄嗟
 とっさ
 に飛びかかったが、これは袖
@@ -227,7 +228,7 @@ la'e di'u na'e jalge lo nu ji'a sai jgari lo taxfu tubnu
 とら
 えなかったらしい。
 .i
-mi noi senva pe'a ca'o viska po'o lo la'e di'u jvinu
+mi noi senva pe'a ku'o ca'o viska po'o lo di'u jvinu
 おれはただ幻のように、そう云う景色を眺めていた。
 .i
 ko'a 
@@ -266,10 +267,10 @@ sei sa'a ci re'u ze'u smaji se'u
 みたび
 、長き沈黙）
 .i 
-mi to'o lo ckunrsugi genja ku .a'i zei sa'igau lo mi tatpi xadni
+mi mo'i to'o lo ckunrsugi genja ku .a'i zei rajgau lo mi tatpi xadni
 　おれはやっと杉の根から、疲れ果てた体を起した。
 .i 
-ca'u mi lo poi ko'e falgau ku'o cmalu dakfu pa mei cu jai gusni
+ca'u mi lo poi ko'e ni'a cliva ke'a ku'o cmalu dakfu pa mei cu jai gusni
 おれの前には妻が落した、小刀
 さすが
 が一つ光っている。
@@ -286,11 +287,11 @@ da poi ciblu panci bliku ku'o zo'i lo mi moklu ne'i mo'i ga'u klama
 かたまり
 がおれの口へこみ上げて来る。
 .i ku'i 
-lo dunku cu ba'e no mei
+lo ka dunku cu ba'e no mei
 が、苦しみは少しもない。
 .i ku'i 
-ba lo nu lo cutne co'a lenku kei
-lo vanbi cu za'u mei tai'i cin. smaji 
+ca lo nu lo cutne co'a lenku kei
+lo vanbi co'a za'u mei tai'i cin. smaji 
 ただ胸が冷たくなると、一層あたりがしんとしてしまった。
 .i .ua
 xo paunai mei ni smaji
@@ -305,25 +306,25 @@ lo cmalu cipni pa po'o mei cu ji'a na'e ke sanga klama
 りに来ない。
 .i ku'i
 bu'u lo ckunrsugi ja spatrtake jipno 
-lo jikseicni ke solri tcila cu tolcando
+lo jikseicni ke solri gusni cu tolcando
 ただ杉や竹の杪
 うら
 に、寂しい日影が漂
 ただよ
 っている。
 .i 
-lo solri tcila 
+lo solri gusni 
 sei sa'a ze'i smaji se'u
 cu ji'a milxe zenba lo ka kandi
 日影が、——それも次第に薄れて来る。
 .i
 sei sa'a ze'i smaji se'u
-ji'a pu co'u viska lo ckunrsugi ja spatrtake
+pu co'u ji'a viska lo ckunrsugi ja spatrtake
 ——もう杉や竹も見えない。
 .i 
-mi bu'u ta ca'o vreta je se vanbi be lo condi ka smaji 
+mi bu'u ta ca'o vreta je ca bo se vanbi be lo condi ka smaji 
 おれはそこに倒れたまま、深い静かさに包まれている。
-.i ca la'e di'u 
+.i ca lo nu go'i ku
 da noi smaji cadzu ku'o zo'i mi klama ba'o
 　その時誰か忍び足に、おれの側へ来たものがある。
 .i 
