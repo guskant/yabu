@@ -551,8 +551,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol, table, pre, dl ,span.tooltip {
   margin: 0 0 20px;
+  font-family: 'Droid Serif', serif;
+  font-size: 14px;
 }
 
 h1, h2, h3 {
